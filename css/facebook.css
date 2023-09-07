@@ -1,0 +1,77 @@
+body{
+    background-color: rgba(240, 255, 255, 0.648);
+}
+#login{body{
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 40px;
+
+}
+}
+h1{
+    color: rgb(0, 102, 255);
+    font-size: 80px;
+
+}
+h4{
+    font-weight: lighter;
+    margin-top: -60px;
+    
+}
+div{
+    margin: 100px;
+    padding: 50px 30px 50px 10px;
+    background-color:rgb(248, 246, 241);
+    border-radius: 10px;
+    width: 60%;
+    
+}
+.demo1{ padding: 6%;
+    margin: 10px;
+    font-size: large;
+    height: 180%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 80%;
+
+}
+.demo2{
+    width: 80%;
+    height: 70%;
+    border-radius: 5px;
+    font-size: large;
+    background-color: rgb(0, 94, 255);
+     color: antiquewhite;
+     padding: 3%;
+     margin: 30px;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 30px 5px 30px;
+    padding: 50px;
+    font-size: larger;
+}
+button{
+    background-color: rgb(83, 204, 83);
+    text-align:center;
+    font-size: large;
+    border-radius:5px ;
+    padding: 10px;
+    margin: 70px;
+    border: 0px;
+
+}
+p{
+font-size: large;
+font-weight: lighter;
+}
+aside{
+    margin: 80px;
+    padding: 50px;
+    
+}
+
+
