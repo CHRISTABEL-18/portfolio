@@ -197,3 +197,30 @@ footer p {
     text-align: center;
     padding: 10px;
 }
+@media screen and (max-width: 700px) {
+
+    main{
+        display: block;
+    }
+    aside{
+        float: left;
+        display: block;
+    }
+    section{
+        float:left ;
+        display: block;
+        position: relative;
+    }
+    .contact{
+        text-align: center;
+    }
+    .icon{
+        text-align: center;
+    }
+    footer p{
+        text-align: center;
+        background-color: aqua;
+        color: black;
+    }
+}
+    
